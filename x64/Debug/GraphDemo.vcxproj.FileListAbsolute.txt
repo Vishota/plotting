@@ -1,0 +1,2 @@
+V:\Git\bsuir\cpp\GraphDemo\x64\Debug\GraphDemo.exe
+V:\Git\plotting\x64\Debug\GraphDemo.exe

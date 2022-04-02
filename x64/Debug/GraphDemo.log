@@ -1,0 +1,20 @@
+﻿  GraphDemo.cpp
+V:\Git\plotting\libs\gr2d_graph.h(36,52): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(122,28): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(123,28): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(148,42): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(151,40): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(157,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(165,56): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(169,52): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(187,42): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(200,40): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(208,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(217,65): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(223,46): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(225,45): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(291,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(292,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(302,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+V:\Git\plotting\libs\gr2d_graph.h(303,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GraphDemo.vcxproj -> V:\Git\plotting\x64\Debug\GraphDemo.exe
